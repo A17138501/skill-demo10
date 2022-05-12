@@ -1,0 +1,2 @@
+public class Skilldemo10{
+}
